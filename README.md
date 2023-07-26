@@ -26,12 +26,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://i.imgur.com/sayuLtX.gifv)
+[Video Walkthrough](https://i.imgur.com/sayuLtX.gifv)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
+
+My GIF walkthrough was slightly too big to add to this file so I've included a link instead.
 
 I wanted to add more functionality to the amount pledged/goal and meters but ran into some difficulty! I will continue to investigate the use of these and possibly implement in the future. 
 
